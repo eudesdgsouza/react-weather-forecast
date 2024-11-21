@@ -3,7 +3,7 @@ Uma aplicação web para previsão do tempo, desenvolvida com **React**, **Vite*
 
 ## Deploy
 
-- [Live]()
+- [Live](https://react-weather-forecast-gamma.vercel.app/)
 
 ## 🚀 Funcionalidades  
 - **Busca por cidade**: Digite o nome de uma cidade para visualizar o clima atual.  
